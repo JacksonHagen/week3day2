@@ -1,1 +1,12 @@
 /* BASIC STYLES HERE */
+.vh-15{
+    height: 15vh;
+}
+img{
+    object-fit: contain;
+    height: 100%;
+    width: auto;
+}
+.selectable{
+    cursor: pointer;
+}
